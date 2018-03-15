@@ -4,3 +4,5 @@
 - Skier（滑雪者）
 
 ![Skier](http://ot1dcjouh.bkt.clouddn.com/PyGame_Skier.png)
+
+- PyPong
