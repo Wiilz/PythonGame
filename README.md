@@ -6,3 +6,5 @@
 ![Skier](http://ot1dcjouh.bkt.clouddn.com/PyGame_Skier.png)
 
 - PyPong
+![PyPong](http://ot1dcjouh.bkt.clouddn.com/PyGame_PyPong.png)
+
