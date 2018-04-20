@@ -8,3 +8,8 @@
 - PyPong
 
 ![PyPong](http://ot1dcjouh.bkt.clouddn.com/PyGame_PyPong.png)
+
+
+- Hangman
+
+![Hangman](http://ot1dcjouh.bkt.clouddn.com/PyGame_Hangman.jpg)
