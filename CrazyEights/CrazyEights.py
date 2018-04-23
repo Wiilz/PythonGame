@@ -61,3 +61,12 @@ while not valid_play:   #不断尝试直到玩家输入合法的内容
 
     if not valid_play:
         response = raw_input("That's not a legal play.  Try again: ")
+
+    p_hand.remove(selected_card)
+    up_card  = selected_card
+    active_suit = up_card.suit
+    print "You played", selected_card.short_name
+    if is_eight:
+        get_new_suit()
+        
+# 玩家出一张8时得到新花色
