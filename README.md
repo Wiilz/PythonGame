@@ -3,13 +3,13 @@
 
 - Skier（滑雪者）
 
-![Skier](http://ot1dcjouh.bkt.clouddn.com/PyGame_Skier.png)
+![Skier](./Image/PyGame_Skier.jpg)
 
 - PyPong
 
-![PyPong](http://ot1dcjouh.bkt.clouddn.com/PyGame_PyPong.png)
+![PyPong](./Image/PyGame_PyPong.png)
 
 
 - Hangman
 
-![Hangman](http://ot1dcjouh.bkt.clouddn.com/PyGame_Hangman.jpg)
+![Hangman](./Image/PyGame_Hangman.jpg)
